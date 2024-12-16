@@ -1,4 +1,4 @@
-name: immortalwrt-mt7981
+name: immortalwrt-mt798x
 
 on:
   repository_dispatch:
