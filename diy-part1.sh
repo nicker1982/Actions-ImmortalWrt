@@ -9,6 +9,6 @@
 # File name: diy-part1.sh
 # Description: OpenWrt DIY script part 1 (Before Update feeds)
 #
-
 ### 添加第三方订阅源
 sed -i '$a src-git-full small https://github.com/kenzok8/small-package' feeds.conf.default
+git clone https://github.com/momokind/luci-app-hypermodem.git package/luci-app-hypermodem
