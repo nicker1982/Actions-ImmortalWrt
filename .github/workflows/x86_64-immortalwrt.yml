@@ -1,4 +1,4 @@
-name: pure-hanwckf-360t7
+name: x86_64-immortalwrt
 
 on:
   repository_dispatch:
